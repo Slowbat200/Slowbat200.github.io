@@ -34,8 +34,7 @@ const Business = () => (
       <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] max-w-[470px] mt-14">
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore
         praesentium sequi officia, voluptatum repellat atque soluta totam maxime
-        maiores voluptatem magni obcaecati facilis aliquid nam? Quibusdam eius
-        magnam fugiat numquam!
+        maiores voluptatem magni obcaecati facilis aliquid nam? 
       </p>
 
     </div>
